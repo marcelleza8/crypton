@@ -1,5 +1,5 @@
 {
-    "name": "tzsk/crypton",
+    "name": "marceleza/crypton",
     "description": "Laravel API Request Response Encryption",
     "keywords": [
         "tzsk",
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^8.1",
         "illuminate/console": "^7.0|^8.0",
         "illuminate/encryption": "^7.0|^8.0",
         "illuminate/http": "^7.0|^8.0",
